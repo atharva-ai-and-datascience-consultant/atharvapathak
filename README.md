@@ -20,12 +20,49 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Freelance AI & Data Science Consultant <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. I build scalable AI systems, Generative AI applications, and real-time machine learning solutions that drive measurable business impact.
 
-- 🔭 I’m working as a Data Scientist.
-- 🌱 I’m currently learning Deep Learning.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Atharva-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-pathak-126021119/)
+### 💼 What I specialize in:
+• Generative AI (LLMs, RAG, AI Agents)  
+• Fraud Detection & Risk Analytics  
+• Recommendation Systems  
+• Real-time ML Systems & Data Pipelines  
+• End-to-end AI Deployment (MLOps)
+
+### 🧠 Experience Highlights
+• 6+ years of experience in AI, ML, and Data Science  
+• Built real-time fraud detection systems processing millions of transactions  
+• Developed GenAI solutions reducing manual effort by 40%+  
+• Designed scalable ML pipelines and recommendation systems in production
+
+### 🛠️ Tech Stack
+Python | SQL | AWS | Spark | Kafka  
+Machine Learning | Deep Learning | MLOps  
+Generative AI | LLMs | RAG | LangChain  
+Data Engineering | Real-Time Processing
+
+## 🔥 Key Projects
+
+### 🟢 Fraud Detection System (Fintech)
+• Built real-time fraud detection system analyzing 1M+ transactions/day  
+• Improved detection accuracy by 30% and reduced false positives by 22%  
+• Designed low-latency scoring pipeline (<150ms)
+
+---
+
+### 🤖 Generative AI Assistant (RAG)
+• Developed LLM-based system handling 5K+ monthly queries  
+• Reduced manual effort by 40%+ through automation  
+• Built document ingestion and retrieval pipelines
+
+---
+
+### 📊 Recommendation System
+• Increased user engagement by 20% and conversions by 15%  
+• Built real-time personalization APIs for 50K+ users  
+
+📩 Open to freelance & consulting opportunities
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Atharva-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/atharva-pathak-126021119/](https://www.linkedin.com/in/freelanceaidatascienceconsultantatharvapathak/))
 
 ---
 
