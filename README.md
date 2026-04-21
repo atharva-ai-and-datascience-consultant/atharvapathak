@@ -6,10 +6,10 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/freelanceaidatascienceconsultantatharvapathak/" target="_blank">
   <img align="center" alt="Atharva Pathak | Linkedin" width="30px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
-  <img width="30px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" alt="LinkedIn Badge" alt="LinkedIn Badge"></a>
+  <!-- <img width="30px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" alt="LinkedIn Badge" alt="LinkedIn Badge"></a> -->
 <a href="mailto:atharvapathakconsulting@gmail.com" target="_blank">
-  <img width="30px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg"/>
-  <img align="left" alt="Atharva Pathak | Gmail" width="30px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
+  <!-- <img width="30px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg"/> -->
+  <img align="center" alt="Atharva Pathak | Gmail" width="30px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
 </a>
 <a href="https://x.com/atharva_ai" target="_blank"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
