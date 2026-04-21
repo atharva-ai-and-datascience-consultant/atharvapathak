@@ -4,19 +4,15 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
   
-<a href="https://www.linkedin.com/in/freelanceaidatascienceconsultantatharvapathak/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<!-- <a href="https://www.linkedin.com/in/freelanceaidatascienceconsultantatharvapathak/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="mailto:atharvapathakconsulting@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://x.com/atharva_ai"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white"/></a> -->
+
+<a href="https://www.linkedin.com/in/freelanceaidatascienceconsultantatharvapathak/"><img width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" alt="LinkedIn Badge"></a>
 <a href="mailto:atharvapathakconsulting@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://x.com/atharva_ai"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
-<a href="https://www.linkedin.com/in/freelanceaidatascienceconsultantatharvapathak/" target="_blank">
-   <img align="center" alt="Atharva Pathak | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
-  </a>
-  <a href="mailto:atharvapathakconsulting@gmail.com" target="_blank">
-    <img align="center" alt="Atharva Pathak | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
-  </a>
-  <a href="https://x.com/atharva_ai" target="_blank">
-    <img align="center" alt="Atharva pathak | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
-  </a>
+
 
 </p>
 
