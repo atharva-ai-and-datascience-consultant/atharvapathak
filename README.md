@@ -28,6 +28,13 @@ I am a Freelance AI & Data Science Consultant <img src="https://media.giphy.com/
 • Real-time ML Systems & Data Pipelines  
 • End-to-end AI Deployment (MLOps)
 
+### 💼 What I specialize in:
+• Generative AI (LLMs, RAG, AI Agents)  
+• Fraud Detection & Risk Analytics  
+• Recommendation Systems  
+• Real-time ML Systems & Data Pipelines  
+• End-to-end AI Deployment (MLOps)
+
 ## 📊 Experience Highlights
 • 6+ years in AI, Machine Learning, and Data Science
 • Built production-grade ML systems handling **high-volume data at scale**
@@ -38,7 +45,7 @@ I am a Freelance AI & Data Science Consultant <img src="https://media.giphy.com/
 • Built production-grade ML systems handling **high-volume data at scale**
 • Delivered GenAI solutions improving efficiency by **40%+**
 • Designed scalable architectures across fraud, recommendation, and analytics use-cases
-• End-to-end AI Deployment (MLOps)
+
 
 <!--
 ### 🛠️ Tech Stack
