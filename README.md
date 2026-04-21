@@ -4,9 +4,9 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/freelanceaidatascienceconsultantatharvapathak/"><img width="30px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" alt="LinkedIn Badge" alt="LinkedIn Badge"></a>
-<a href="mailto:atharvapathakconsulting@gmail.com"><img width="30px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg"/></a>
-<a href="https://x.com/atharva_ai"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/freelanceaidatascienceconsultantatharvapathak/" target="_blank"><img width="30px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" alt="LinkedIn Badge" alt="LinkedIn Badge"></a>
+<a href="mailto:atharvapathakconsulting@gmail.com" target="_blank"><img width="30px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg"/></a>
+<a href="https://x.com/atharva_ai" target="_blank"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 <!-- <a href="https://www.linkedin.com/in/freelanceaidatascienceconsultantatharvapathak/"><img width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" alt="LinkedIn Badge"></a>
@@ -33,6 +33,12 @@ I am a Freelance AI & Data Science Consultant <img src="https://media.giphy.com/
 • Built production-grade ML systems handling **high-volume data at scale**
 • Delivered GenAI solutions improving efficiency by **40%+**
 • Designed scalable architectures across fraud, recommendation, and analytics use-cases
+
+• 9+ years in AI, Machine Learning, and Data Science
+• Built production-grade ML systems handling **high-volume data at scale**
+• Delivered GenAI solutions improving efficiency by **40%+**
+• Designed scalable architectures across fraud, recommendation, and analytics use-cases
+• End-to-end AI Deployment (MLOps)
 
 <!--
 ### 🛠️ Tech Stack
