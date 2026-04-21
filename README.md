@@ -8,9 +8,7 @@
 <a href="mailto:atharvapathakconsulting@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://x.com/atharva_ai"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
-<!-- <a href="https://www.linkedin.com/in/freelanceaidatascienceconsultantatharvapathak/"><img width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" alt="LinkedIn Badge"></a>
-<a href="mailto:atharvapathakconsulting@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://x.com/atharva_ai"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white"/></a> -->
+
 
 
 
